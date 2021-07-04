@@ -1,1 +1,10 @@
 简单使用Git和Github来管理自己的代码和读书笔记：https://my.oschina.net/bxxfighting/blog/378196
+
+
+mysql 和 hive 中几种关联（join/union） 的区别：https://blog.csdn.net/u013111855/article/details/103403340
+Hive与MySQL的区别：https://blog.csdn.net/qq_39597203/article/details/89481867
+
+窗口函数：
+https://blog.csdn.net/shaiguchun9503/article/details/82349050?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.channel_param
+https://blog.csdn.net/qq_25221835/article/details/82762416
+https://blog.csdn.net/mzl87/article/details/84455076
